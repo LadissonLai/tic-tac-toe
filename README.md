@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Overview
+This is a tic-toc-toe Game developed by React.js, which extends some functions such as "Show a Draw result" and "Go back to N step".
+<div align="left">
+<img src="./doc/photo-in-top.png" width="75%" height="60%"/>
+</div>
+
+
 ## Available Scripts
 
 In the project directory, you can run:
